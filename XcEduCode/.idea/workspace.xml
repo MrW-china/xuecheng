@@ -1,8 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8151fef7-d057-42fa-a107-c17d39b1c108" name="Default Changelist" comment="">
+    <list default="true" id="8151fef7-d057-42fa-a107-c17d39b1c108" name="Default Changelist" comment="xuecheng_day_02.0">
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/vuetest/vue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/vuetest/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/vuetest/vue_02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/vuetest/vue_03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/webpacktest/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/webpacktest/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/webpacktest/model01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/webpacktest/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/webpacktest/vue_02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/webpacktest_02/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/webpacktest_02/src/model01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/webpacktest_02/src/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/webpacktest_02/vue_02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/webpacktest_02/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/build/webpack.test.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/config/proxyConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/config/sysConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/config/test.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/base/api/public.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/base/api/system.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/base/components/404.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/base/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/base/components/breadcrumb.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/base/components/foot.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/base/components/head.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/base/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/common/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/mock/data/course.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/mock/data/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/mock/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/mock/mock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/module/cms/api/cms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/module/cms/page/page_list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/module/cms/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/module/home/api/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/module/home/page/home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/module/home/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/statics/aa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/statics/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/statics/css/vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/statics/mui/css/icons-extra.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/statics/mui/css/mui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/statics/mui/fonts/mui-icons-extra.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/statics/mui/fonts/mui.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/statics/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/vuex/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/vuex/getters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/src/vuex/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/static/images/asset-logoIco-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/test/e2e/custom-assertions/elementCount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/test/e2e/nightwatch.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/test/e2e/runner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/test/e2e/specs/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/test/unit/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/test/unit/jest.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/test/unit/setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/xc-ui-pc-sysmanage/test/unit/specs/HelloWorld.spec.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/cms/CmsPageControllerApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/cms/CmsPageControllerApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web/xc-ui-pc-static-portal/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/xc-framework-parent/target/" />
     <ignored path="$PROJECT_DIR$/xc-framework-common/target/" />
@@ -36,8 +123,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPageController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+            <state relative-caret-position="406">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,8 +135,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            <state relative-caret-position="250">
+              <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,10 +145,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/cms/CmsPageControllerApi.java">
+        <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/request/QueryPageRequest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+            <state relative-caret-position="175">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,12 +157,47 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/QueryResult.java">
+        <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/dao/CmsPageRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="175">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/cms/CmsPageControllerApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/ManageCmsApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,10 +216,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>feign</find>
+      <find>intern</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -116,10 +242,10 @@
         <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/dao/CmsPageDao.java" />
         <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/dao/CmsPageRepository.java" />
-        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPageController.java" />
         <option value="$PROJECT_DIR$/xc-service-manage-cms/src/test/java/com/xuecheng/manage_cms/dao/CmsPageRepositoryTest.java" />
-        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java" />
         <option value="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/cms/CmsPageControllerApi.java" />
+        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPageController.java" />
+        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java" />
       </list>
     </option>
   </component>
@@ -157,75 +283,107 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xc-service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="XcEduCode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-manage-cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
+              <item name="manage_cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
+              <item name="manage_cms" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
+              <item name="manage_cms" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-service-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
+              <item name="manage_cms" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,7 +473,11 @@
       <workItem from="1602486347041" duration="6224000" />
       <workItem from="1602637294848" duration="6366000" />
       <workItem from="1602724423535" duration="12583000" />
-      <workItem from="1602809331466" duration="3623000" />
+      <workItem from="1602809331466" duration="7018000" />
+      <workItem from="1603069374869" duration="2743000" />
+      <workItem from="1603177926193" duration="3951000" />
+      <workItem from="1603186480425" duration="750000" />
+      <workItem from="1603242047277" duration="2121000" />
     </task>
     <task id="LOCAL-00001" summary="xuecheng_day_01">
       <created>1602812989232</created>
@@ -324,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602812989239</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="xuecheng_day_01.1">
+      <created>1602813148500</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602813148500</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -336,7 +505,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30460000" />
+    <option name="totallyTimeSpent" value="43420000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -347,19 +516,19 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24130106" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20953101" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49924356" weight="0.31129032" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50075644" side_tool="true" weight="0.31129032" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50075644" side_tool="true" weight="0.68064517" />
       <window_info anchor="bottom" id="Messages" order="5" weight="0.32903227" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Run" order="8" />
-      <window_info active="true" anchor="bottom" id="Debug" order="9" visible="true" weight="0.33709678" />
+      <window_info anchor="bottom" id="Debug" order="9" sideWeight="0.49924356" weight="0.4064516" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
@@ -383,7 +552,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="xuecheng_day_01" />
-    <option name="LAST_COMMIT_MESSAGE" value="xuecheng_day_01" />
+    <MESSAGE value="xuecheng_day_01.1" />
+    <MESSAGE value="xuecheng_day_02.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="xuecheng_day_02.0" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/xc-framework-parent/pom.xml">
@@ -504,24 +675,6 @@
     <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/resources/logback-spring.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/ManageCmsApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/ResultCode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -532,16 +685,6 @@
     <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/dao/CmsPageDao.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.0.6.RELEASE/spring-data-mongodb-2.0.6.RELEASE.jar!/org/springframework/data/mongodb/repository/MongoRepository.class">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/dao/CmsPageRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk-8/src.zip!/java/util/Optional.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -572,30 +715,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPageController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/QueryResponseResult.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/request/QueryPageRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -616,30 +739,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        <state relative-caret-position="150">
+          <caret line="6" column="63" lean-forward="true" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-8/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="3166" column="34" lean-forward="true" selection-start-line="3166" selection-start-column="34" selection-end-line="3166" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/QueryResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/QueryResult.java">
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/ManageCmsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/cms/CmsPageControllerApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        <state relative-caret-position="380">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/dao/CmsPageRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/request/QueryPageRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

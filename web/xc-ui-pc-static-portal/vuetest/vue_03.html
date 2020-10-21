@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <ul>
+        <li v-for="(item,index) in list" :key="index" v-if="index%2==0">
+            {{item}}---{{index}}
+        </li>
+        <li v-for="(value,key) in user">{{key}}---{{value}}</li>
+    </ul>
+</div>
+</body>
+<script src="vue.min.js"></script>
+<script>
+    var VM = new Vue({
+        el: '#app',
+        data: {
+            list: [1, 3, 4, 3, 2, 6],
+            user: {id: '01', name: '王伟男'},
+            userList: [
+                {id: '01', name: '王伟男'},
+                {id: '02', name: '申利宁'},
+            ]
+        }
+    })
+</script>
+</html>
